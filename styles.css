@@ -11,11 +11,17 @@
 	border-radius: 5px;
 }
 .player_one,.player_two{
+	display: block;
+    margin: auto;
 	background-color: rgb(255, 255, 255);
 	padding: 20px;
     border-radius: 10px;
 }
-
+#division{
+	background:white;
+	border:2px solid black;
+	border-radius:5px;
+}
 #text{
 	text-align:left;
 }
