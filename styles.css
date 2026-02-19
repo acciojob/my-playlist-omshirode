@@ -25,9 +25,9 @@
 #text{
 	text-align:left;
 }
-#anchor{
+a{
 	text-decoration-line: none;
 }
-.ok{
+li{
 	list-style-type: none;
 }
